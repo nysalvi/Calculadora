@@ -11,7 +11,6 @@
 //Requisito 04: 
 //Nossa calculadora deve ter a possibilidade fazer as quatro operações básicas da matemática
 
-
 using System;
 
 namespace Calculadora.ConsoleApp
