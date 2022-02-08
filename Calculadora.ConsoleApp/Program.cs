@@ -62,8 +62,8 @@ namespace Calculadora.ConsoleApp
                 {
                     Console.WriteLine("As opções válidas são de 1 - 5 ou s");
                     continue;
-                }
-
+                }    
+                 
                 Console.Write("Digite o primeiro número: ");
 
                 strPrimeiroNumero = Console.ReadLine();
