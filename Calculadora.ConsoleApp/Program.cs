@@ -10,15 +10,15 @@
 
 //Requisito 04: 
 //Nossa calculadora deve ter a possibilidade fazer as quatro operações básicas da matemática
-
+ 
 //Requisito 05
 
 //Nossa calculadora deve validar a opções do menu
 
 
 //BUG 01
-
-//    Nossa calculadora deve realizar as operações com "0"
+ 
+//    Nossa calculadora deve realizar as operações com "0"  
 
 //BUG 02
 
